@@ -12,3 +12,4 @@ C:\Users\valer\Desktop\Обучение\CSHARP\Lesson1\Task1\obj\Debug\net9.0\re
 C:\Users\valer\Desktop\Обучение\CSHARP\Lesson1\Task1\obj\Debug\net9.0\Task1.pdb
 C:\Users\valer\Desktop\Обучение\CSHARP\Lesson1\Task1\obj\Debug\net9.0\Task1.genruntimeconfig.cache
 C:\Users\valer\Desktop\Обучение\CSHARP\Lesson1\Task1\obj\Debug\net9.0\ref\Task1.dll
+C:\Users\valer\Desktop\Обучение\CSHARP\Lesson1\Task1\obj\Debug\net9.0\Task1.sourcelink.json
