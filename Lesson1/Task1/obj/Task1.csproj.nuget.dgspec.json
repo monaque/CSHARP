@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\valer\\Desktop\\Обучение\\CSHARP\\Lesson1\\Task1\\Task1.csproj": {}
+    "C:\\Users\\Валерий\\Desktop\\Обучение\\CSHARP\\Lesson1\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\valer\\Desktop\\Обучение\\CSHARP\\Lesson1\\Task1\\Task1.csproj": {
+    "C:\\Users\\Валерий\\Desktop\\Обучение\\CSHARP\\Lesson1\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valer\\Desktop\\Обучение\\CSHARP\\Lesson1\\Task1\\Task1.csproj",
+        "projectUniqueName": "C:\\Users\\Валерий\\Desktop\\Обучение\\CSHARP\\Lesson1\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "C:\\Users\\valer\\Desktop\\Обучение\\CSHARP\\Lesson1\\Task1\\Task1.csproj",
-        "packagesPath": "C:\\Users\\valer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valer\\Desktop\\Обучение\\CSHARP\\Lesson1\\Task1\\obj\\",
+        "projectPath": "C:\\Users\\Валерий\\Desktop\\Обучение\\CSHARP\\Lesson1\\Task1\\Task1.csproj",
+        "packagesPath": "C:\\Users\\Валерий\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Валерий\\Desktop\\Обучение\\CSHARP\\Lesson1\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\valer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Валерий\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
